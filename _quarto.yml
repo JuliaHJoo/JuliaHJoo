@@ -59,7 +59,7 @@ format:
   html:
     fontsize: 1.1em
     theme: 
-      - litera
+      - jolla
       - html/styles.scss
     toc: false
     code-link: true

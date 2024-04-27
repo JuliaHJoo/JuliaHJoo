@@ -1,6 +1,6 @@
 ---
 about:
-  template: litera
+  template: jolla
   id: about-block
   image: "img/profpic.jpg"
   links:
